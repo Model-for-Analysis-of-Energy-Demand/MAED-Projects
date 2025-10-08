@@ -14,12 +14,13 @@ To contribute a new project or update an existing one:
    - Authors/contributors  
    - Link to peer-reviewed or government publication
    - License
-4. Upload MAED files in an organized folder structure. 
-5. Submit a pull request.
+4. Upload MAED files in an organized folder structure.
+5. Include project name and brief description under the Projects list below.
+6. Submit a pull request.
 
 ## Projects
 The following projects have been puiblished so far:
-* [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): [insert brief description]
+* [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): Transport sector demand (2015-2050) under net zero and avoid-shift-improve strategies, including a sensitivity analysis on population and GDP growth.
 
 ## License
 All materials in this repository are shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.  
