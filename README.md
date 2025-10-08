@@ -23,5 +23,4 @@ The following projects have been puiblished so far:
 * [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): Transport sector demand (2015-2050) under net zero and avoid-shift-improve strategies, including a sensitivity analysis on population and GDP growth.
 
 ## License
-All materials in this repository are shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.  
-You are free to use, adapt, and share the data, provided that appropriate attribution is given.
+All materials in this repository are shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to use, adapt, and share the data, provided that appropriate attribution is given.
