@@ -1,0 +1,13 @@
+{
+  "country": "Viet Nam",
+  "sector": "Transport",
+  "tool": "MAED",
+  "version": "1.0",
+  "years": "2015–2050",
+  "scenarios": ["Business-as-usual", "Net-Zero Option 1", "Net-Zero Option 2", "Net-Zero Option 3", "Net-Zero Option 3 + Avoid", "Net-Zero Option 3 + Shift", "Net-Zero Option 3 + Improve", "Net-Zero Option 3 + Avoid-Shift-Improve"],
+  "sensitivity analysis": ["Net-Zero Option 3 + Avoid-Shift-Improve + Low Population + Observed GDP",  "Net-Zero Option 3 + Avoid-Shift-Improve + Medium Population + Observed GDP", "Net-Zero Option 3 + Avoid-Shift-Improve + High Population + Observed GDP", "Net-Zero Option 3 + Avoid-Shift-Improve + Observed Population + Low GDP", "Net-Zero Option 3 + Avoid-Shift-Improve + Observed Population + Medium GDP", "Net-Zero Option 3 + Avoid-Shift-Improve + Observed Population + High GDP", "Net-Zero Option 3 + Avoid-Shift-Improve + Observed Population + Very High GDP"]
+  "created_by": "Naomi Tan",
+  "last_updated": "2025-10-08",
+  "license": "CC-BY-4.0",
+  "contact": "n.tan@lboro.ac.uk"
+}
