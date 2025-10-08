@@ -5,12 +5,15 @@ The structure is designed to support reproducibility, collaboration, and future 
 ## How to Contribute
 To contribute a new project or update an existing one:
 1. Create a folder under `/MAED-Projects/` with the country name (e.g., `Viet Nam/`).
-2. Add a `README.md` inside the folder, describing the included MAED files.
+2. Add a `README.md` inside the folder, describing the included MAED files and the associated publication.
 3. Include a `metadata.json` with key details such as:
    - Country and sector
-   - Dataset/model version (`model_version`)  
+   - File version (`file_version`)
+   - MAED version (`maed_version`)
+   - Time period 
    - Authors/contributors  
-   - Time period and license
+   - Link to peer-reviewed publication
+   - License
 4. Upload MAED files in an organized folder structure. 
 5. Submit a pull request.
 
