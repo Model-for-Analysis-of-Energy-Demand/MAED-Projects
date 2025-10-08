@@ -17,6 +17,10 @@ To contribute a new project or update an existing one:
 4. Upload MAED files in an organized folder structure. 
 5. Submit a pull request.
 
+## Projects
+The following projects have been puiblished so far:
+* [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): [insert brief description]
+
 ## License
 All materials in this repository are shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.  
 You are free to use, adapt, and share the data, provided that appropriate attribution is given.
