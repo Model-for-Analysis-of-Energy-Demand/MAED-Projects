@@ -12,7 +12,7 @@ To contribute a new project or update an existing one:
    - MAED version (`maed_version`)
    - Time period 
    - Authors/contributors  
-   - Link to peer-reviewed publication
+   - Link to peer-reviewed or government publication
    - License
 4. Upload MAED files in an organized folder structure. 
 5. Submit a pull request.
