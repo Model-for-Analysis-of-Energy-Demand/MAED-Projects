@@ -15,13 +15,13 @@ To contribute a new project or update an existing one:
 9.	Add commit message and description
 10.	Click ‘Commit Changes’
 11.	Create a metadata.json with key details such as:
-- Country and sector
-- File version (file_version)
-- MAED version (maed_version)
-- Time period
-- Authors/contributors
-- Link to peer-reviewed or government publication
-- License
+    - Country and sector
+    - File version (file_version)
+    - MAED version (maed_version)
+    - Time period
+    - Authors/contributors
+    - Link to peer-reviewed or government publication
+    - License
 11.	Upload zip and any other relevant files (Add File > Upload files)
 12.	Click ‘Contribute’
 13.	Click ‘Open Pull Request’
@@ -33,6 +33,7 @@ To contribute a new project or update an existing one:
 ## Projects
 The following projects have been puiblished so far:
 * [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): Transport sector demand (2015-2050) under net zero and avoid-shift-improve strategies, including a sensitivity analysis on population and GDP growth.
+* [Kenya Counties](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Kenya%20Counties): Whole energy system business-as-usual demand scenarioes for all 47 counties in Kenya.
 
 ## License
 All materials in this repository are shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to use, adapt, and share the data, provided that appropriate attribution is given.
