@@ -1,0 +1,15 @@
+{
+  "country": "Kenya",
+  "sector": "Industry, Residential, Services",
+  "file_version": "1.0",
+  "tool": "MAED",
+  "MAED_version": "2.0",
+  "years": "2019–2070",
+  "scenarios": ["Business-as-usual"],
+  "sensitivity analysis": ["n/a"]
+  "publication": "Fields, N., Millot, A., Mutembei, M., Nganga, A., Lubello, P., Hoffbauer, L., Howells, M., Brown, E. (2025) Demand starter data kit: Selected socio-economic and technical energy system demand modelling data for all 47 counties in Kenya. Data-in-brief, 60, 111556. https://doi.org/10.1016/j.dib.2025.111556",
+  "created_by": "Neve Fields",
+  "last_updated": "2025-11-10",
+  "license": "CC-BY-4.0",
+  "contact": "N.Fields@lboro.ac.uk"
+}
