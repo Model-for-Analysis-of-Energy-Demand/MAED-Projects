@@ -1,0 +1,15 @@
+{
+  "country": "Sierra Leone",
+  "sector": "Power",
+  "file_version": "1.0",
+  "tool": "MAED",
+  "MAED_version": "2.0",
+  "years": "2023–2050",
+  "scenarios": ["Baseline", "High", "Low"],
+  "sensitivity analysis": ["n/a"]
+  "publication": "Fields, N.; Collier, W.; Kiley, F.; Caulker, D.; Blyth, W.; Howells, M.; Brown, E. Long-Term Forecasting: A MAED Application for Sierra Leone’s Electricity Demand (2023–2050). Energies 2024, 17, 2878. https://doi.org/10.3390/en17122878",
+  "created_by": "Neve Fields",
+  "last_updated": "2025-11-12",
+  "license": "CC-BY-4.0",
+  "contact": "N.Fields@lboro.ac.uk"
+}
