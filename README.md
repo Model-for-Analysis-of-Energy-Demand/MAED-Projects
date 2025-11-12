@@ -32,8 +32,10 @@ To contribute a new project or update an existing one:
 
 ## Projects
 The following projects have been puiblished so far:
-* [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): Transport sector demand (2015-2050) under net zero and avoid-shift-improve strategies, including a sensitivity analysis on population and GDP growth.
 * [Kenya Counties](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Kenya%20Counties): Whole energy system business-as-usual demand scenarioes for all 47 counties in Kenya.
+* [Sierra Leone](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Sierra%20Leone): Power sector demand from 2023 to 2050 under baseline, high, and low scenarios.
+* [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): Transport sector demand (2015-2050) under net zero and avoid-shift-improve strategies, including a sensitivity analysis on population and GDP growth.
+
 
 ## License
 All materials in this repository are shared under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to use, adapt, and share the data, provided that appropriate attribution is given.
