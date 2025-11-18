@@ -33,6 +33,7 @@ To contribute a new project or update an existing one:
 ## Projects
 The following projects have been puiblished so far:
 * [Kenya Counties](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Kenya%20Counties): Whole energy system business-as-usual demand scenarioes for all 47 counties in Kenya.
+* [Kenya - Kilifi County](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Kenya%20-%20Kilifi%20County): Business-as-Usual, High, and Low whole energy system demand scenarios for Kifili County in Kenya, building on the starter data kit presented in the Kenya Counties project. 
 * [Sierra Leone](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Sierra%20Leone): Power sector demand from 2023 to 2050 under baseline, high, and low scenarios.
 * [Viet Nam](https://github.com/Model-for-Analysis-of-Energy-Demand/MAED-Projects/tree/main/Viet%20Nam): Transport sector demand (2015-2050) under net zero and avoid-shift-improve strategies, including a sensitivity analysis on population and GDP growth.
 
