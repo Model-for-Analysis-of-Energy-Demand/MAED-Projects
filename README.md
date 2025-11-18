@@ -1,4 +1,4 @@
-## MAED Projects
+# MAED Projects
 This repository containts a collection of national and regional MAED projects, including input datasets, results, and documentation.
 The structure is designed to support reproducibility, collaboration, and future expansion to additional sectors or countries.
 
